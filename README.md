@@ -1,4 +1,4 @@
-<h1 align="center" id="title">tic-tac-toe</h1>
+<h1 align="center" id="title">Tic-Tac-Toe</h1>
 
 <p align="center"><img src="https://img.itch.zone/aW1nLzE3MzkyNjA5LnBuZw==/original/7YvsYD.png" alt="project-image"></p>
 
